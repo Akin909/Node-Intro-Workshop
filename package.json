@@ -1,0 +1,28 @@
+{
+  "name": "akins-node-intro-project",
+  "version": "1.0.0",
+  "description": "A FnC Node intro project - day 1",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node src/server",
+    "dev": "nodemon src/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bradreeder/Node-Intro-Workshop.git"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "Akin Sowemimo (Akin909)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bradreeder/Node-Intro-Workshop/issues"
+  },
+  "homepage": "https://github.com/bradreeder/Node-Intro-Workshop#readme",
+  "dependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
